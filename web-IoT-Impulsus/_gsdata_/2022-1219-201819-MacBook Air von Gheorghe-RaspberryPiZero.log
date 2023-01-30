@@ -1,0 +1,4 @@
+2022-12-19 20:20:10: == Sync Started by User Command
+2022-12-19 20:20:10: Start only 1 threads, limited by tasks to run
+2022-12-19 20:20:10: Copy New '/Users/gheorghesurdu/Documents/Programming/Impulsus/web-IoT-Impulsus/webapp.py' -> 'sftp://gheorghepi/home/pi/Desktop/webapp.py' (527)
+2022-12-19 20:20:10: == Sync Complete. Time: 00:00:01, Speed: 0,00/s, OK: 1, Errors: 0

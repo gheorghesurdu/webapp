@@ -1,0 +1,14 @@
+2022-12-19 16:42:57: == Sync Started by User Command
+2022-12-19 16:42:57: Create Folder sftp://gheorghepi/home/pi/Documents/__pycache__
+2022-12-19 16:42:57: Create Folder sftp://gheorghepi/home/pi/Documents/templates
+2022-12-19 16:42:57: Create Folder sftp://gheorghepi/home/pi/Documents/templates/admin
+2022-12-19 16:43:00: Copy New '/Users/gheorghesurdu/Documents/Programming/Impulsus/web-IoT-Impulsus/__pycache__/webapp.cpython-39.pyc' -> 'sftp://gheorghepi/home/pi/Documents/__pycache__/webapp.cpython-39.pyc' (680)
+2022-12-19 16:43:00: Copy New '/Users/gheorghesurdu/Documents/Programming/Impulsus/web-IoT-Impulsus/__pycache__/model.cpython-39.pyc' -> 'sftp://gheorghepi/home/pi/Documents/__pycache__/model.cpython-39.pyc' (2,933)
+2022-12-19 16:43:00: Copy New '/Users/gheorghesurdu/Documents/Programming/Impulsus/web-IoT-Impulsus/cpu_read.py' -> 'sftp://gheorghepi/home/pi/Documents/cpu_read.py' (415)
+2022-12-19 16:43:00: Copy New '/Users/gheorghesurdu/Documents/Programming/Impulsus/web-IoT-Impulsus/dht2.py' -> 'sftp://gheorghepi/home/pi/Documents/dht2.py' (1,335)
+2022-12-19 16:43:00: Copy New '/Users/gheorghesurdu/Documents/Programming/Impulsus/web-IoT-Impulsus/dht_read.py' -> 'sftp://gheorghepi/home/pi/Documents/dht_read.py' (788)
+2022-12-19 16:43:00: Copy New '/Users/gheorghesurdu/Documents/Programming/Impulsus/web-IoT-Impulsus/IoT.db' -> 'sftp://gheorghepi/home/pi/Documents/IoT.db' (16,384)
+2022-12-19 16:43:00: Copy New '/Users/gheorghesurdu/Documents/Programming/Impulsus/web-IoT-Impulsus/model.py' -> 'sftp://gheorghepi/home/pi/Documents/model.py' (1,651)
+2022-12-19 16:43:00: Copy New '/Users/gheorghesurdu/Documents/Programming/Impulsus/web-IoT-Impulsus/templates/admin/index.html' -> 'sftp://gheorghepi/home/pi/Documents/templates/admin/index.html' (198)
+2022-12-19 16:43:00: Copy New '/Users/gheorghesurdu/Documents/Programming/Impulsus/web-IoT-Impulsus/webapp.py' -> 'sftp://gheorghepi/home/pi/Documents/webapp.py' (527)
+2022-12-19 16:43:00: == Sync Complete. Time: 00:00:04, Speed: 135,17 KB/s, OK: 12, Errors: 0

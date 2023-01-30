@@ -1,0 +1,7 @@
+2022-12-19 16:40:44: -- Analysis Started by User Command
+2022-12-19 16:40:44: L: State file does not exist: /Users/gheorghesurdu/Documents/Programming/Impulsus/web-IoT-Impulsus/_gsdata_/_file_state_v4._gs
+2022-12-19 16:40:44: R: State file does not exist: sftp://gheorghepi/home/pi/Documents/_gsdata_/_file_state_v4._gs
+2022-12-19 16:40:44: R: On disk sftp://gheorghepi space required for sync is 28,67 KB, free space is unknown
+2022-12-19 16:40:44: Changes: 12, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 15
+2022-12-19 16:40:44: Left to Right: Copy File: 12 
+2022-12-19 16:40:44: -- Analysis Complete. Time 00:00:01, Speed: 15 files/s
